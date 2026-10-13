@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kevin Panchal 👋<br><br>I'm a software developer who enjoys working across the stack—from designing intuitive user interfaces to building backend systems and exploring low-level programming.<br><br>🔭 Building projects with React, Next.js, Node.js, Flutter, Rust, Go, and Python.<br><br>🗄️ Exploring databases, developer tools, and software architecture.<br><br>🌱 Constantly learning, experimenting, and turning ideas into working software.<br><br>💬 I believe the best way to learn is to build something real.
+Hi 👋<br><br>I'm a software developer who enjoys working across the stack—from designing intuitive user interfaces to building backend systems and exploring low-level programming.<br><br>🔭 Building projects with React, Next.js, Node.js, Flutter, Rust, Go, and Python.<br><br>🗄️ Exploring databases, developer tools, and software architecture.<br><br>🌱 Constantly learning, experimenting, and turning ideas into working software.<br><br>💬 I believe the best way to learn is to build something real.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Kp2444&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
