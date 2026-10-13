@@ -17,4 +17,4 @@
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kp2444&theme=github_dark)
 
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/Kp2444) — one-click GitHub README cards.</sub>
+
