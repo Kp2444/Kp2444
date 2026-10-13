@@ -6,6 +6,10 @@ Hi, I'm Kevin Panchal 👋<br><br>I'm a software developer who enjoys working ac
 ![](https://streak-stats.demolab.com/?user=Kp2444&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kp2444&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### Stack
+![Skill icons](https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Cgit%2Crust%2Cflutter%2Cdart%2Cnext%2Cpython%2Ctailwind%2Csvelte%2Cmongo%2Cdocker%2Ckotlin%2Cgo%2Cpostgresql%2Cfastapi&perline=9&theme=dark)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kp2444&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
