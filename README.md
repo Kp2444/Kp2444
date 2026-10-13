@@ -1,20 +1,16 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=Kp2444&title=Kp2444&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="Kp2444 hero" src="https://coolreadme.xyz/api/hero-banner?user=Kp2444&title=Kp2444&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
+# 💫 About Me:
+Hi, I'm Kevin Panchal 👋<br><br>I'm a software developer who enjoys working across the stack—from designing intuitive user interfaces to building backend systems and exploring low-level programming.<br><br>🔭 Building projects with React, Next.js, Node.js, Flutter, Rust, Go, and Python.<br><br>🗄️ Exploring databases, developer tools, and software architecture.<br><br>🌱 Constantly learning, experimenting, and turning ideas into working software.<br><br>💬 I believe the best way to learn is to build something real.
 
-![typing intro](https://coolreadme.xyz/api/typing-card?user=Kp2444&lines=I+turn+%E2%98%95+into+code+and+ideas+into+realityy&theme=dark)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Kp2444&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Kp2444&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kp2444&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kp2444&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/stats-card?user=Kp2444&theme=dark"><img alt="Kp2444 GitHub stats" src="https://coolreadme.xyz/api/stats-card?user=Kp2444&theme=light"></picture>
-
-![penguin streak](https://coolreadme.xyz/api/penguin-card?user=Kp2444)
-
-### Stack
-
-![Skill icons](https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Cgit%2Crust%2Cflutter%2Cdart%2Cnext%2Cpython%2Ctailwind%2Csvelte%2Cmongo%2Cdocker%2Ckotlin%2Cgo%2Cpostgresql%2Cfastapi&perline=9&theme=dark)
-
-### Stats
-
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kp2444&theme=github_dark)
+---
+[![](https://komarev.com/ghpvc/?username=Kp2444&icon=5&color=6)](https://visitcount.itsvg.in)
 
 
 
